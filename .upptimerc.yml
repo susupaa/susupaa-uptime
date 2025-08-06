@@ -25,8 +25,8 @@ assignees: # Users to assign downtime issues (optional)
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: status.susupaa.com
-  baseUrl: /susupaa-uptime
+  cname: status.susupaa.com
+  # baseUrl: /susupaa-uptime
   logoUrl: https://app.susupaa.com/assets/logo-iHr_AhoL.jpeg
   name: Susupaa Uptime
   introTitle: Susupaa Uptime Status
