@@ -17,6 +17,16 @@ sites:
     assignees:
       - Drake669
 
+  - name: Checkout Portal
+    url: https://checkout.susupaa.com
+    assignees:
+      - Drake669
+
+  - name: Pay Portal
+    url: https://pay.susupaa.com
+    assignees:
+      - Drake669
+
 assignees: # Users to assign downtime issues (optional)
   - susupaa
   - noelzappy
