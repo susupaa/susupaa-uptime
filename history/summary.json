@@ -1,27 +1,5 @@
 [
   {
-    "name": "Susupaa.com",
-    "url": "https://www.susupaa.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.susupaa.com.ico",
-    "slug": "susupaa-com",
-    "status": "up",
-    "uptime": "59.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "59.86%",
-    "uptimeMonth": "59.86%",
-    "uptimeYear": "59.86%",
-    "time": 404,
-    "timeDay": 262,
-    "timeWeek": 404,
-    "timeMonth": 404,
-    "timeYear": 404,
-    "dailyMinutesDown": {
-      "2025-08-07": 296,
-      "2025-08-06": 1440,
-      "2025-08-05": 1389
-    }
-  },
-  {
     "name": "Susupaa API",
     "url": "https://api.susupaa.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.susupaa.com.ico",
@@ -32,11 +10,11 @@
     "uptimeWeek": "89.82%",
     "uptimeMonth": "89.82%",
     "uptimeYear": "89.82%",
-    "time": 403,
-    "timeDay": 342,
-    "timeWeek": 403,
-    "timeMonth": 403,
-    "timeYear": 403,
+    "time": 405,
+    "timeDay": 352,
+    "timeWeek": 405,
+    "timeMonth": 405,
+    "timeYear": 405,
     "dailyMinutesDown": {
       "2025-08-10": 81,
       "2025-08-09": 333,
@@ -56,11 +34,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 275,
+    "time": 264,
     "timeDay": 178,
-    "timeWeek": 275,
-    "timeMonth": 275,
-    "timeYear": 275,
+    "timeWeek": 264,
+    "timeMonth": 264,
+    "timeYear": 264,
     "dailyMinutesDown": {}
   },
   {
@@ -74,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 157,
-    "timeDay": 157,
-    "timeWeek": 157,
-    "timeMonth": 157,
-    "timeYear": 157,
+    "time": 197,
+    "timeDay": 197,
+    "timeWeek": 197,
+    "timeMonth": 197,
+    "timeYear": 197,
     "dailyMinutesDown": {}
   },
   {
@@ -92,11 +70,33 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 174,
-    "timeDay": 174,
-    "timeWeek": 174,
-    "timeMonth": 174,
-    "timeYear": 174,
+    "time": 191,
+    "timeDay": 191,
+    "timeWeek": 191,
+    "timeMonth": 191,
+    "timeYear": 191,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Susupaa.com",
+    "url": "https://www.susupaa.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.susupaa.com.ico",
+    "slug": "susupaa-com",
+    "status": "up",
+    "uptime": "59.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "59.87%",
+    "uptimeMonth": "59.87%",
+    "uptimeYear": "59.87%",
+    "time": 426,
+    "timeDay": 354,
+    "timeWeek": 426,
+    "timeMonth": 426,
+    "timeYear": 426,
+    "dailyMinutesDown": {
+      "2025-08-07": 296,
+      "2025-08-06": 1440,
+      "2025-08-05": 1389
+    }
   }
 ]
