@@ -1,7 +1,7 @@
 url: https://api.susupaa.com/health
-status: down
-code: 503
-responseTime: 320
-lastUpdated: 2025-08-11T21:45:03.942Z
+status: up
+code: 200
+responseTime: 365
+lastUpdated: 2025-08-11T21:54:51.167Z
 startTime: 2025-08-05T00:51:09.183Z
 generator: Upptime <https://github.com/upptime/upptime>
