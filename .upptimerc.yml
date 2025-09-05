@@ -4,34 +4,34 @@ repo: susupaa-uptime # The name of this repository
 
 sites:
   - name: Susupaa API
-    url: https://api.susupaa.com/health
+    url: https://api.susupaa.com/ready
     assignees:
       - noelzappy
 
   - name: Collectors Dashboard
     url: https://app.susupaa.com
     assignees:
-      - Drake669
+      - noelzappy
 
   - name: Checkout Portal
     url: https://checkout.susupaa.com
     assignees:
-      - Drake669
+      - noelzappy
 
   - name: Pay Portal
     url: https://pay.susupaa.com
     assignees:
-      - Drake669
+      - noelzappy
 
   - name: Susupaa.com
     url: https://www.susupaa.com
     assignees:
-      - Drake669
+      - noelzappy
 
 assignees: # Users to assign downtime issues (optional)
   - susupaa
   - noelzappy
-  - Drake669
+  - noelzappy
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
