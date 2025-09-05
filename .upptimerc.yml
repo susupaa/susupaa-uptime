@@ -11,34 +11,34 @@ sites:
   - name: Collectors Dashboard
     url: https://app.susupaa.com
     assignees:
-      - noelzappy
+      - Drake669
 
   - name: Checkout Portal
     url: https://checkout.susupaa.com
     assignees:
-      - noelzappy
+      - Drake669
 
   - name: Pay Portal
     url: https://pay.susupaa.com
     assignees:
-      - noelzappy
+      - Drake669
 
   - name: Susupaa.com
     url: https://www.susupaa.com
     assignees:
-      - noelzappy
+      - Drake669
 
 assignees: # Users to assign downtime issues (optional)
   - susupaa
   - noelzappy
-  - noelzappy
+  - Drake669
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.susupaa.com
   # baseUrl: /susupaa-uptime
-  logoUrl: https://app.susupaa.com/assets/logo-iHr_AhoL.jpeg
+  logoUrl: https://susupaa.com/logo.png
   name: Susupaa Uptime
   introTitle: Susupaa Uptime Status
   introMessage: This page shows the status of all services provided by Susupaa.
