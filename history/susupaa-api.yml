@@ -1,7 +1,7 @@
 url: https://api.susupaa.com/ready
-status: down
-code: 503
-responseTime: 435
-lastUpdated: 2025-10-01T10:43:39.883Z
+status: up
+code: 200
+responseTime: 410
+lastUpdated: 2025-10-01T10:53:00.140Z
 startTime: 2025-08-05T00:51:09.183Z
 generator: Upptime <https://github.com/upptime/upptime>
