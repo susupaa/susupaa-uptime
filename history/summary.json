@@ -4,17 +4,17 @@
     "url": "https://api.susupaa.com/ready",
     "icon": "https://icons.duckduckgo.com/ip3/api.susupaa.com.ico",
     "slug": "susupaa-api",
-    "status": "down",
-    "uptime": "99.23%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.23%",
-    "time": 534,
-    "timeDay": 389,
-    "timeWeek": 374,
-    "timeMonth": 361,
-    "timeYear": 534,
+    "status": "up",
+    "uptime": "99.15%",
+    "uptimeDay": "73.24%",
+    "uptimeWeek": "96.18%",
+    "uptimeMonth": "99.12%",
+    "uptimeYear": "99.15%",
+    "time": 533,
+    "timeDay": 374,
+    "timeWeek": 371,
+    "timeMonth": 360,
+    "timeYear": 533,
     "dailyMinutesDown": {
       "2025-08-06": 264,
       "2025-08-07": 56,
@@ -42,7 +42,7 @@
       "2026-03-16": 64,
       "2026-03-28": 614,
       "2026-03-29": 413,
-      "2026-06-01": 0
+      "2026-06-01": 385
     }
   },
   {
